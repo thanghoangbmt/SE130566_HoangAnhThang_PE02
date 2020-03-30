@@ -31,6 +31,7 @@ namespace SE130566_HoangAnhThang_PE02
 
         private void LoadData()
         {
+            MessageBox.Show("Alo");
             list = studentData.GetListStudent();
             dgvStudent.DataSource = list;
 
