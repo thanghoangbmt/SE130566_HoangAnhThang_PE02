@@ -16,7 +16,7 @@ namespace SE130566_HoangAnhThang_PE02
      Họ tên: Hoàng Anh Thắng
      StudentID: SE130566
      Mã đề: PE02
-     Ngày thi: 30/03/2020, giờ thi: 12:30:00
+     Ngày thi: 30/03/2020, giờ thi: 12:30:00 PM
      Thời gian 85 phút.
     */
     public partial class frmMain : Form
